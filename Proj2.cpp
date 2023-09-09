@@ -18,7 +18,7 @@ return tmp==word;
        for(int a=0;a<test;a++)       
        {
        string word, tmp; myfile>>word;
-        int last=1; tmp = word;
+       int last=1; tmp = word;
        
         while(!seePal(word)){
            string one="";
