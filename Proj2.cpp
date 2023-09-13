@@ -27,7 +27,7 @@ return tmp==word;
       word=tmp+one;
       last++;               
      }
-              cout<<word<<endl;       
+          cout<<word<<endl;       
      }
        
        system("pause");
