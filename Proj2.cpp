@@ -10,7 +10,7 @@ return tmp==word;
      
 }
 
-    main(){
+main(){
        
          ifstream myfile("Encinares.txt");
          int test; myfile>>test;
