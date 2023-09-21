@@ -29,6 +29,6 @@ main(){
      }
           cout<<word<<endl;       
      }
-       
+    
        system("pause");
 }
