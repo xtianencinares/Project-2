@@ -12,7 +12,7 @@ return tmp==word;
 
 main(){
        
-         ifstream myfile("Encinares.txt");
+        ifstream myfile("Encinares.txt");
          int test; myfile>>test;
        
        for(int a=0;a<test;a++)       
